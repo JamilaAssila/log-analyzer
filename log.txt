@@ -1,0 +1,4 @@
+INFO 2025-05-31 Starting application
+WARNING 2025-05-31 Low memory
+ERROR 2025-05-31 Cannot connect to database
+INFO 2025-05-31 Request handled
